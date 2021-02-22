@@ -1,0 +1,1 @@
+Pyhton code that implements MACD indicator and counts the profit gained by selling and buying actions following its values. 
